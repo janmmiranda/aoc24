@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+*.txt
 
 # Test binary, built with "go test -c"
 *.test
@@ -32,3 +33,6 @@ main
 # OS X generated file
 .DS_Store
 
+# Input files
+**.txt
+**.json
